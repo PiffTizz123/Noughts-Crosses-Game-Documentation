@@ -1,0 +1,10 @@
+Rules:
+Each player is assigned either a nought or a cross.
+
+Take turns at placing down your symbol in an empty square.
+
+The first player to get a line of three wins.
+
+If all squares are filled and there are no lines of three it is a draw.
+
+Plan:
